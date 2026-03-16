@@ -1,2 +1,2 @@
-# imc2-
+# IMC_2-
 Calculadora IMC 
